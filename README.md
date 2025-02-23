@@ -3,7 +3,7 @@
 
 ---
 
-### Hi there 👋
+## Hi there 👋
 
 **Thanks for visiting my account profile!** 😊
 
@@ -11,28 +11,36 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 
 ---
 
-### 🛠️ **Skills & Technologies**
+## 🛠️ **Skills & Technologies**
 
-#### **Technical Skills:**
+### **Technical Skills:**
 - **Programming Languages**: Python (Pandas, Matplotlib, Seaborn), JavaScript, SQL
 - **Data Analysis & Visualization**: Google Looker Studio, Power BI, Tableau
 - **Machine Learning & Deep Learning**: Scikit-learn, BERT (IndoBERT), Sentiment Analysis
 - **Data Processing**: Excel, Google Sheets, Data Cleaning, Data Transformation
 - **Tools & Frameworks**: Google Colab, GitHub, Google Workspace 
 
-#### **Additional Skills:**
+### **Additional Skills:**
 - **Leadership & Management**
 - **Problem Solving**
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Design & Creative Tools**: Canva, Figma, Photoshop, Illustrator
 
-### 💼 **Latest Projects**
+## 💼 **Latest Projects**
 
-#### 1. **Supermarket Sales Dashboard** 🛒📊
+### 1. **Supermarket Sales Dashboard** 🛒📊🤖
 
 - **Tools**: Google Looker Studio, Google Sheets, Google Colab
 - **Description**: An interactive dashboard designed to visualize supermarket sales trends across key dimensions: **product**, **location**, and **customer type**. This tool empowers stakeholders to analyze performance with **dynamic filters** based on **payment method**, **time period**, and **product categories**.
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Supermarket-Sales-Dashboard) 🔗
+
+
+### 2. **Comparison of Sentiment Labeling Using Textblob Vader and Flair with IndoBERT** 📊 🤖
+
+- **Tools**: Python, Google Colab, TextBlob, VADER, Flair, IndoBERT  
+- **Description**: This research aims to analyze **public opinion** and compare **sentiment labeling** techniques using **TextBlob**, **VADER**, and **Flair** in sentiment analysis of text data taken from social media platforms. The sentiment labeling results will then be trained and tested using the **IndoBERT** model to determine the most effective sentiment labeling technique for analyzing social media texts.  
+- **Link**: [Check it out here!](https://github.com/khoerul-anam/Comparison-of-Sentiment-Labeling-Using-Textblob-Vader-and-Flair-with-IndoBERT/tree/main)
+
 
 
 
