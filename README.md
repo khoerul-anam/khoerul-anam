@@ -42,9 +42,16 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Comparison-of-Sentiment-Labeling-Using-Textblob-Vader-and-Flair-with-IndoBERT/tree/main)
 
 
+### 3. **Classification-with-Machine-Learning-Models** 📊 🤖
+
+- **Tools**: Python, Google Colab, Scikit-learn  
+- **Description**: This project aims to classify breast cancer tumors as malignant (cancerous) or benign (non-cancerous) using **Random Forest**, **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, **Naive Bayes**  
+- **Link**: [Check it out here!](https://github.com/khoerul-anam/Classification-with-Machine-Learning-Models)
 
 
 
+
+---
 
 ## 📫 **How to reach me**:
 - **Email**: khoerulanam231@gmail.com
