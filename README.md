@@ -16,9 +16,9 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 #### **Technical Skills:**
 - **Programming Languages**: Python (Pandas, Matplotlib, Seaborn), JavaScript, SQL
 - **Data Analysis & Visualization**: Google Looker Studio, Power BI, Tableau
-- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras, BERT (IndoBERT), Sentiment Analysis
+- **Machine Learning & Deep Learning**: Scikit-learn, BERT (IndoBERT), Sentiment Analysis
 - **Data Processing**: Excel, Google Sheets, Data Cleaning, Data Transformation
-- **Tools & Frameworks**: Google Colab, GitHub, Google Workspace (Google Sheets, Google Docs, Google Drive)
+- **Tools & Frameworks**: Google Colab, GitHub, Google Workspace 
 
 #### **Additional Skills:**
 - **Leadership & Management**
