@@ -60,7 +60,7 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 ## 📫 **How to reach me**:
 - **Email**: khoerulanam231@gmail.com
 - **LinkedIn**: [khoerul-anam](https://www.linkedin.com/in/khoerul-anam-a7b627221/)
-
+- **Ready Tensor**: [Check it here](https://app.readytensor.ai/users/khoerul_anam)
 <!--
 **NaNa-231/NaNa-231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
