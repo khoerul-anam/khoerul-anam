@@ -48,7 +48,11 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 - **Description**: This project aims to classify breast cancer tumors as malignant (cancerous) or benign (non-cancerous) using **Random Forest**, **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, **Naive Bayes**  
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Classification-with-Machine-Learning-Models)
 
+### 4. **Dashboard Tourism in Indonesia** 📊 🤖
 
+- **Tools**: Power BI, Microsoft Excel, CSV files  
+- **Description**:  interactive dashboard to visualize key metrics and trends of tourism destinations across Java. This dashboard facilitates the analysis of tourism performance, visitor engagement, and resource allocation with dynamic filters based on city and category.
+- **Link**: [Check it out here!](https://github.com/khoerul-anam/Power-BI-Tourism)
 
 
 ---
