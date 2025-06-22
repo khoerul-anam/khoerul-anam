@@ -21,9 +21,9 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 - **Tools & Frameworks**: Google Colab, GitHub, Google Workspace 
 
 ### **Additional Skills:**
-- **Leadership & Management**
-- **Problem Solving**
-- **Web Technologies**: HTML, CSS, JavaScript
+- **Leadership, Problem-Solving, Management, Decision-Making, Communication, Analytical Thinking, Teamwork**
+- **Tools** : Microsoft Office, Word, Excel, Power Point, Google Workspace (Gdocs, Gspreadsheets, Gslides, Gdrive, Gform), Google Colab, Looker Studio, Power BI, Tableu
+- **Technical Skill**: Python, SQL, Machine Learning, HTML, Javascript, CSS, Supervised Learning, Unsupervised Learning, Classification, Clustering, Deep Learning, NLP, Data Visualization, Exploratory Data Analysis (EDA)
 - **Design & Creative Tools**: Canva, Figma, Photoshop, Illustrator
 
 ## 💼 **Latest Projects**
