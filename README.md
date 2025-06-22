@@ -28,25 +28,26 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 
 ## 💼 **Latest Projects**
 
-### 1. **Supermarket Sales Dashboard** 🛒📊🤖
-
-- **Tools**: Google Looker Studio, Google Sheets, Google Colab
-- **Description**: An interactive dashboard designed to visualize supermarket sales trends across key dimensions: **product**, **location**, and **customer type**. This tool empowers stakeholders to analyze performance with **dynamic filters** based on **payment method**, **time period**, and **product categories**.
-- **Link**: [Check it out here!](https://github.com/khoerul-anam/Supermarket-Sales-Dashboard) 🔗
-
-
-### 2. **Comparison of Sentiment Labeling Using Textblob Vader and Flair with IndoBERT** 📊 🤖
+### 1. **Comparison of Sentiment Labeling Using Textblob Vader and Flair with IndoBERT** 📊 🤖
 
 - **Tools**: Python, Google Colab, TextBlob, VADER, Flair, IndoBERT  
 - **Description**: This research aims to analyze **public opinion** and compare **sentiment labeling** techniques using **TextBlob**, **VADER**, and **Flair** in sentiment analysis of text data taken from social media platforms. The sentiment labeling results will then be trained and tested using the **IndoBERT** model to determine the most effective sentiment labeling technique for analyzing social media texts.  
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Comparison-of-Sentiment-Labeling-Using-Textblob-Vader-and-Flair-with-IndoBERT/tree/main)
 
 
-### 3. **Classification-with-Machine-Learning-Models** 📊 🤖
+### 2. **Classification-with-Machine-Learning-Models** 📊 🤖
 
 - **Tools**: Python, Google Colab, Scikit-learn  
 - **Description**: This project aims to classify breast cancer tumors as malignant (cancerous) or benign (non-cancerous) using **Random Forest**, **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, **Naive Bayes**  
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Classification-with-Machine-Learning-Models)
+
+
+### 3. **Retail Customer Segmentation with K-Means Clustering Model** 📊 🤖
+
+- **Tools**: Python, Google Colab, Scikit-learn, K-Means 
+- **Description**:  This project aims to segment customers in the retail industry based on their characteristics and purchasing behavior. By using a machine learning model (unsupervised learning), specifically K-Means Clustering, this project identifies different customer groups.
+- **Link**: [Check it out here!](https://github.com/khoerul-anam/Retail-Customer-Segmentation-with-K-Means-Clustering-Model)
+
 
 ### 4. **Dashboard Tourism in Indonesia** 📊 🤖
 
@@ -54,6 +55,11 @@ I am a **graduate of Informatics** from **Amikom University Yogyakarta** with a 
 - **Description**:  interactive dashboard to visualize key metrics and trends of tourism destinations across Java. This dashboard facilitates the analysis of tourism performance, visitor engagement, and resource allocation with dynamic filters based on city and category.
 - **Link**: [Check it out here!](https://github.com/khoerul-anam/Power-BI-Tourism)
 
+### 5. **Supermarket Sales Dashboard** 🛒📊🤖
+
+- **Tools**: Google Looker Studio, Google Sheets, Google Colab
+- **Description**: An interactive dashboard designed to visualize supermarket sales trends across key dimensions: **product**, **location**, and **customer type**. This tool empowers stakeholders to analyze performance with **dynamic filters** based on **payment method**, **time period**, and **product categories**.
+- **Link**: [Check it out here!](https://github.com/khoerul-anam/Supermarket-Sales-Dashboard) 🔗
 
 ---
 
